@@ -2,7 +2,8 @@
 
 This is a Tailwind CSS learning project.
 
-Access all of your files, anywhere, and anytime with Fylo. Fylo is a file storage system that is accessible and secure. Easily share any files or documents with friends, family, or colleagues. Fylo supports two-factor authentication and encryption, ensuring your files are secure. Access your files from your phone, laptop, or tablet -- your files are everywhere you go. 
+Access all of your files, anywhere, and anytime with Fylo. Fylo is a file storage system that is accessible and secure. Easily share any files or documents with friends, family, or colleagues. Fylo supports two-factor authentication and encryption, ensuring your files are secure. Access your files from your phone, laptop, or tablet -- your files are everywhere you go.
+For your own preferences, Fylo supports both light and dark modes. 
 
 
 
